@@ -23,7 +23,7 @@ This Power BI dashboard analyzes survey data from data professionals to understa
 ---
 
 ## 📷 Dashboard Preview
-![Survey Dashboard](Data-Professional-Survey-Dashboard.png)
+![Survey Dashboard](ata-Professional-Survey-Dashboard.png)
 
 ---
 
